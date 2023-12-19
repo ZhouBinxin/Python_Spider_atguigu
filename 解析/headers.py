@@ -1,0 +1,18 @@
+headers = {
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Accept-Language': 'zh-CN,zh;q=0.9',
+    'Cache-Control': 'max-age=0',
+    'Connection': 'keep-alive',
+    'Cookie:BIDUPSID=3238968D97E906146923C16443D5FED6; PSTM=1695905006; BAIDUID=3238968D97E906148257A38DF63ADAD6:FG=1; BAIDUID_BFESS=3238968D97E906148257A38DF63ADAD6:FG=1; H_PS_PSSID=39648_39670_39676_39712_39739_39765_39780_39790_39682_39679_39817_39664; BA_HECTOR=2h8h0g25ag8ha5akag8ga1051im6cbj1q; ZFY=q:AiAn1dwBxK5Zb:AI:B:AYUqB06:BY7JFggC55jeMcoUBKU': 'C; Hmery-Time=2480328746; ab_sr=1.0.1_Nzk5OWQwODdjZTRkMzkzZjE4ZTk3YmFiMjc1MGE2MTJjNjQwYzQzNDIwYmNjNTNmZjVlYjBkNjcyZTQ2ZDg3M2E5NGNhYWQxZjA1OWU1OWJhYzkzZGRmYmFhMjk2YzIxZmY4ZjE4NmY0YmRhZDlkMGVkMjkwNjUwZDMyNDQyM2EzYWIxYmZlZDNjYjcwZjc4YzE3MTA0OGE1Y2Q1ZGRjZA==',
+    'Host': 'baijiahao.baidu.com',
+    'Sec-Ch-Ua': '"Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"',
+    'Sec-Ch-Ua-Mobile': '?0',
+    'Sec-Ch-Ua-Platform': '"Windows"',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+    'Sec-Fetch-User': '?1',
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
+}
